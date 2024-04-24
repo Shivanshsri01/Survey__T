@@ -5,9 +5,13 @@ The Survey App is a web application designed to conduct surveys in different lan
 **Features**
 
 1 .Create surveys for different languages.
+
 2 .Fetch survey questions for specific languages along with their options.
+
 3 .Submit responses to surveys.
+
 4 .Store responses in a PostgreSQL database.
+
 5 .Easy setup and configuration.
 
 **Setup Instructions**
