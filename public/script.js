@@ -33,7 +33,7 @@ document.getElementById("next-btn").addEventListener("click", function() {
     if (selectedLanguage) {
         fetchQuestions(selectedLanguage.value);
     } else {
-        alert("Please select a programming language.");
+        alert("Please select  language.");
     }
 });
 
